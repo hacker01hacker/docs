@@ -1,28 +1,30 @@
 # vuejs.org
 
-## Contributing
+## Үлес қосу
 
-This site is built with [VitePress](https://github.com/vuejs/vitepress) and depends on [@vue/theme](https://github.com/vuejs/vue-theme). Site content is written in Markdown format located in `src`. For simple edits, you can directly edit the file on GitHub and generate a Pull Request.
+Бұл сайт [VitePress](https://github.com/vuejs/vitepress) арқылы жасалған және [@vue/theme](https://github.com/vuejs/vue-theme) - ге тәуелді. Сайт мазмұны `src` ішінде орналасқан Markdown форматында жазылған. Қарапайым өзгерістер енгізу үшін, сіз GitHub-та файлды тікелей өзгертіп, Pull Request жасай аласыз.
 
-For local development, [pnpm](https://pnpm.io/) is preferred as package manager:
+Жергілікті даму үшін [pnpm](https://pnpm.io/) пакет менеджері ұсынылады:
 
 ```bash
 pnpm i
 pnpm run dev
 ```
 
-This project requires Node.js to be `v18` or higher. And it is recommended to enable corepack:
+Бұл жоба үшін Node.js нұсқасы `v18` немесе одан жоғары болуы керек. Сондай-ақ, corepack-ты қосу ұсынылады:
 
 ```bash
 corepack enable
 ```
 
-## Working on the content
+## Мазмұнмен жұмыс
 
-- See VitePress docs on supported [Markdown Extensions](https://vitepress.dev/guide/markdown) and the ability to [use Vue syntax inside markdown](https://vitepress.dev/guide/using-vue).
+- VitePress құжаттамасынан қолдауды [Markdown Кеңейтімдері](https://vitepress.dev/guide/markdown) және [markdown ішіндегі Vue синтаксисін қолдану](https://vitepress.dev/guide/using-vue) мүмкіндігі туралы ақпаратты қараңыз.
 
 - See the [Writing Guide](https://github.com/vuejs/docs/blob/main/.github/contributing/writing-guide.md) for our rules and recommendations on writing and maintaining documentation content.
 
-## Working on the theme
+- Құжаттаманы жазу және сақтау ережелері мен ұсыныстары үшін [Жазу Нұсқаулығын](https://github.com/vuejs/docs/blob/main/.github/contributing/writing-guide.md) қараңыз.
 
-If changes need to made for the theme, check out the [instructions for developing the theme alongside the docs](https://github.com/vuejs/vue-theme#developing-with-real-content).
+## Тақырыппен жұмыс
+
+Егер тақырыпқа өзгерістер енгізу қажет болса, [құжаттаманы әзірлеумен қатар тақырыпты дамыту](https://github.com/vuejs/vue-theme#developing-with-real-content) нұсқаулығын қараңыз.
