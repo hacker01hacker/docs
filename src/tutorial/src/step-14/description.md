@@ -1,12 +1,12 @@
-# Slots {#slots}
+# Slot-тар {#slots}
 
-In addition to passing data via props, the parent component can also pass down template fragments to the child via **slots**:
+Деректерді проптар арқылы жіберумен қатар, ата-ана компоненті баласына **slot** арқылы шаблон фрагменттерін жіберуге де болады:
 
 <div class="sfc">
 
 ```vue-html
 <ChildComp>
-  This is some slot content!
+  Бұл слоттың мазмұны!
 </ChildComp>
 ```
 
@@ -15,18 +15,18 @@ In addition to passing data via props, the parent component can also pass down t
 
 ```vue-html
 <child-comp>
-  This is some slot content!
+  Бұл слоттың мазмұны!
 </child-comp>
 ```
 
 </div>
 
-In the child component, it can render the slot content from the parent using the `<slot>` element as outlet:
+Баланың компонентінде, ата-анадан келген слоттың мазмұнын `<slot>` элементі арқылы көрсетуге болады:
 
 <div class="sfc">
 
 ```vue-html
-<!-- in child template -->
+<!-- бала шаблонында -->
 <slot/>
 ```
 
@@ -34,16 +34,16 @@ In the child component, it can render the slot content from the parent using the
 <div class="html">
 
 ```vue-html
-<!-- in child template -->
+<!-- бала шаблонында -->
 <slot></slot>
 ```
 
 </div>
 
-Content inside the `<slot>` outlet will be treated as "fallback" content: it will be displayed if the parent did not pass down any slot content:
+<slot> шыққан жеріндегі мазмұн «резервтік» мазмұн ретінде қарастырылады: егер ата-ана ешқандай слот мазмұнын бермесе, ол көрсетіледі.
 
 ```vue-html
-<slot>Fallback content</slot>
+<slot>Резервтік мазмұн</slot>
 ```
 
-Currently we are not passing any slot content to `<ChildComp>`, so you should see the fallback content. Let's provide some slot content to the child while making use of the parent's `msg` state.
+Қазіргі уақытта біз <ChildComp>-ке ешқандай слот мазмұнын жібермей отырмыз, сондықтан сіз резервтік мазмұнды көруіңіз керек. Енді ата-ананың msg күйін пайдаланып, баласына слот мазмұнын жіберейік.
