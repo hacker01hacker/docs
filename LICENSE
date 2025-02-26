@@ -1,163 +1,163 @@
-Copyright (c) 2019-present, Yuxi (Evan) You and Vue documentation contributors
+Авторлық құқық (c) 2019-қазіргі уақыт, Yuxi (Evan) You және Vue құжаттамасының қатысушылары
 
-The contents of this repository, **except for all image files**, are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), detailed below. Images in this repository retain the copyright and licensing terms of their respective authors and owners.
+Бұл репозиторийдің мазмұны, барлық кескін файлдарынан басқа, төменде көрсетілген [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) лицензиясы бойынша таратылады. Бұл репозиторийдегі кескіндер өз авторлары мен иелерінің авторлық құқығы мен лицензиялық шарттарын сақтайды.
 
 ---
 
-# Creative Commons Attribution 4.0 International
+# Creative Commons Attribution 4.0 Халықаралық
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Creative Commons корпорациясы (“Creative Commons”) заң фирмасы емес және заң қызметтерін немесе заңдық кеңес бермейді. Creative Commons ашық лицензияларын тарату адвокат-клиент немесе басқа да құқықтық қатынастарды құрмайды. Creative Commons өз лицензиялары мен оларға қатысты ақпаратты “бар қалпында” ұсынады. Creative Commons өз лицензиялары, олардың шарттарымен лицензияланған кез келген материал немесе оған қатысты ақпарат бойынша ешқандай кепілдіктер бермейді. Сондай-ақ, Creative Commons бұл лицензияларды пайдаланудан туындаған залалдар үшін барынша кең көлемде жауапкершіліктен бас тартады.
 
-**Using Creative Commons Public Licenses**
+**Creative Commons ашық лицензияларын пайдалану**
 
-Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+Creative Commons ашық лицензиялары авторлық құқыққа және төменде көрсетілген жария лицензияда белгіленген басқа да құқықтарға жататын түпнұсқа шығармаларды және басқа материалдарды бөлісуге мүмкіндік беретін стандартты шарттар жиынтығын ұсынады. Төмендегі мәліметтер тек ақпараттық мақсатта берілген, толық емес және біздің лицензияларымыздың бөлігі болып табылмайды.
 
-* __Considerations for licensors:__ Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
+* __Лицензия берушілерге арналған ескертпелер:__  Біздің ашық лицензияларымыз авторлық құқық және басқа да белгілі бір құқықтар шектеу қоятын материалдарды көпшілікке пайдалануға рұқсат бере алатын тұлғаларға арналған. Біздің лицензиялар қайтарып алынбайды. Лицензия берушілер таңдалған лицензияны қолданбас бұрын оның шарттары мен талаптарын мұқият оқып, түсінуі қажет. Сонымен қатар, лицензияны қолданар алдында барлық қажетті құқықтарды қамтамасыз ету керек, осылайша көпшілік материалды күтілгендей пайдалана алады. Лицензияға жатпайтын кез келген материалды нақты белгілеу қажет. Бұл басқа CC лицензиясы бойынша таратылатын материалдарды немесе авторлық құқықтан ерекшелік немесе шектеу негізінде пайдаланылатын материалдарды қамтиды. [Лицензия берушілерге арналған қосымша ескертпелер](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
 
-* __Considerations for the public:__ By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
+* __Көпшілікке арналған ескертпелер:__  Біздің ашық лицензияларымыздың бірін пайдалану арқылы лицензия беруші көпшілікке лицензияланған материалды белгіленген шарттар мен талаптар негізінде пайдалануға рұқсат береді. Егер лицензия берушінің рұқсаты қажет болмаса – мысалы, авторлық құқыққа қолданылатын ерекшелік немесе шектеу негізінде – онда мұндай пайдалану лицензиямен реттелмейді. Біздің лицензияларымыз тек авторлық құқық және лицензия беруші рұқсат бере алатын басқа да белгілі бір құқықтар аясында ғана рұқсат береді. Лицензияланған материалды пайдалану басқа да себептер бойынша шектелуі мүмкін, мысалы, егер басқа тұлғалар осы материалға авторлық құқық немесе өзге де құқықтарға ие болса. Лицензия беруші арнайы талаптар қоя алады, мысалы, барлық өзгерістер белгіленуі немесе сипатталуы керек деп сұрауы мүмкін. Бұл біздің лицензияларымызда міндетті болып саналмаса да, мұндай ақылға қонымды сұраныстарды құрметтеген жөн. [Көпшілікке арналған қосымша ескертпелер](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
 
-## Creative Commons Attribution 4.0 International Public License
+## Creative Commons Attribution 4.0 Халықаралық Ашық Лицензиясы
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+Лицензияланған құқықтарды (төменде анықталған) жүзеге асыру арқылы сіз осы Creative Commons Attribution 4.0 Халықаралық Ашық Лицензиясының ("Ашық Лицензия") шарттары мен талаптарын қабылдайсыз және оларға бағынуға келісесіз. Егер бұл Ашық Лицензия келісімшарт ретінде қарастырылса, сіз осы шарттар мен талаптарды қабылдағаныңыз үшін Лицензияланған құқықтарды иеленесіз, ал Лицензия беруші сізге осындай құқықтарды, Лицензияланған материалды осы шарттар мен талаптар негізінде қолжетімді ету арқылы пайда алу мақсатында береді.
 
-### Section 1 – Definitions.
+### 1-бөлім – Анықтамалар.
 
-a. __Adapted Material__ means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+a. __Бейімделген материал__ бұл Лицензияланған материалдан алынған немесе оған негізделген және Лицензия беруші иелік ететін Авторлық құқық және Ұқсас құқықтар аясында рұқсат талап ететіндей түрде аударылған, өзгертілген, реттелген, қайта өңделген немесе басқа да жолмен түрлендірілген материал. Осы Ашық Лицензияның мақсаттарына сәйкес, егер Лицензияланған материал музыкалық шығарма, орындау немесе дыбыс жазбасы болса, онда Бейімделген материал әрқашан Лицензияланған материалдың қозғалатын бейнемен уақытқа сәйкестендіріліп біріктірілуі кезінде жасалады.
 
-b. __Adapter's License__ means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+b. __Бейімдеушінің лицензиясы__ бұл сіздің Бейімделген материалға қосқан үлесіңіздегі Авторлық құқық және Ұқсас құқықтарға қолданылатын, осы Ашық Лицензияның шарттарына сәйкес келетін лицензия.
 
-c. __Copyright and Similar Rights__ means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+c. __Авторлық құқық және Ұқсас құқықтар__ бұл авторлық құқық және оған тығыз байланысты басқа да құқықтар, оның ішінде, бірақ олармен шектелмей, орындау құқығы, тарату құқығы, дыбыс жазбасына құқық және Дерекқорға ерекше құқықтар, бұл құқықтардың атауы мен санаты қалай белгіленгеніне қарамастан. Осы Ашық Лицензия мақсатында 2(b)(1)-(2)-бөлімдерінде көрсетілген құқықтар Авторлық құқық және Ұқсас құқықтар болып саналмайды.
 
-d. __Effective Technological Measures__ means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+d. __Тиімді технологиялық шаралар__ 1996 жылғы 20 желтоқсанда қабылданған Дүниежүзілік интеллектуалдық меншік ұйымының (WIPO) Авторлық құқық туралы келісімінің 11-бабына сәйкес немесе басқа да ұқсас халықаралық келісімдер бойынша міндеттемелерді орындау үшін бекітілген және тиісті рұқсатсыз айналып өтуге болмайтын шаралар.
 
-e. __Exceptions and Limitations__ means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+e. __Ерекшеліктер мен шектеулер__ бұл әділ пайдалану, әділ мәміле және/немесе сіздің Лицензияланған материалды пайдалануыңызға қолданылатын Авторлық құқық және Ұқсас құқықтарға кез келген басқа ерекшелік немесе шектеу.
 
-f. __Licensed Material__ means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+f. __Лицензияланған материал__ Лицензия беруші осы Ашық Лицензияны қолданған көркем немесе әдеби шығарма, дерекқор немесе басқа материал.
 
-g. __Licensed Rights__ means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+g. __Лицензияланған құқықтар__ сізге осы Ашық Лицензияның шарттары негізінде берілетін және сіздің Лицензияланған материалды пайдалануыңызға қолданылатын барлық Авторлық құқық және Ұқсас құқықтар шегінде шектелген, Лицензия беруші лицензиялай алатын құқықтар.
 
-h. __Licensor__ means the individual(s) or entity(ies) granting rights under this Public License.
+h. __Лицензия беруші__ осы Ашық Лицензия аясында құқықтар беретін жеке тұлға(лар) немесе ұйым(дар).
 
-i. __Share__ means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+i. __Бөлісу__ бұл Лицензияланған құқықтарға сәйкес рұқсат талап етілетін кез келген әдіс немесе процесс арқылы материалды көпшілікке қолжетімді ету, соның ішінде көбейту, көпшілік алдында көрсету, көпшілік алдында орындау, тарату, жариялау, жеткізу немесе импорттау, сондай-ақ материалды көпшілікке олар өздері таңдаған уақытта және орында пайдалана алатындай етіп қолжетімді ету.
 
-j. __Sui Generis Database Rights__ means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+j. __Дерекқорға ерекше құқықтар__ 1996 жылғы 11 наурызда Еуропалық Парламент пен Кеңес қабылдаған 96/9/EC Директивасы негізінде дерекқорларды құқықтық қорғауға байланысты, кейін өзгертілген немесе ауыстырылған, сондай-ақ әлемнің кез келген жерінде оған негізінен баламалы болып табылатын басқа құқықтар.
 
-k. __You__ means the individual or entity exercising the Licensed Rights under this Public License. __Your__ has a corresponding meaning.
+k. __Сіз__ осы Ашық Лицензия бойынша Лицензияланған құқықтарды жүзеге асыратын жеке тұлға немесе ұйым. Сіздің сәйкес мағынаға ие.
 
-### Section 2 – Scope.
+### 2-бөлім – Қолдану аясы.
 
-a. ___License grant.___
+a. ___Лицензия беру.___
 
-   1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+   1. Осы Ашық Лицензияның шарттары мен талаптарына сәйкес, Лицензия беруші сізге Лицензияланған материалдағы Лицензияланған құқықтарды жүзеге асыру үшін бүкіл әлем бойынша, роялтисіз, қосалқы лицензияланбайтын, ерекше емес және қайтарып алынбайтын лицензия береді:
 
-       A. reproduce and Share the Licensed Material, in whole or in part; and
+       A. Лицензияланған материалды толық немесе жартылай көшіруге және Бөлісуге;
 
-       B. produce, reproduce, and Share Adapted Material.
+       B. Бейімделген материалды жасауға, көшіруге және Бөлісуге.
 
-   2. __Exceptions and Limitations.__ For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+   2. __Ерекшеліктер мен шектеулер.__ Егер сіздің пайдалануыңызға Ерекшеліктер мен шектеулер қолданылса, бұл Ашық Лицензия қолданылмайды, және сіз оның шарттарын орындауға міндетті емессіз.
 
-   3. __Term.__ The term of this Public License is specified in Section 6(a).
+   3. __Мерзім.__ Осы Ашық Лицензияның қолданылу мерзімі 6(a)-бөлімінде көрсетілген.
 
-   4. __Media and formats; technical modifications allowed.__ The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+   4. __БАҚ және форматтар; техникалық өзгерістерге рұқсат етіледі.__ Лицензия беруші сізге қазіргі уақытта белгілі немесе кейін пайда болатын барлық БАҚ пен форматтарда Лицензияланған құқықтарды жүзеге асыруға, сондай-ақ мұны орындау үшін қажетті техникалық өзгерістер енгізуге рұқсат береді. Лицензия беруші сізге Лицензияланған құқықтарды жүзеге асыру үшін қажетті техникалық өзгерістер жасауға, соның ішінде Тиімді технологиялық шараларды айналып өтуді қажет ететін өзгерістер жасауға тыйым салу құқығынан бас тартады және/немесе оны қолданбауға келіседі. Осы Ашық Лицензия мақсатында, 2(a)(4)-бөлімінде рұқсат етілген өзгерістерді енгізу Бейімделген материал жасауды білдірмейді.
 
-   5. __Downstream recipients.__
+   5. __Келесі пайдаланушылар.__
 
-       A. __Offer from the Licensor – Licensed Material.__ Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+       A. __Лицензия берушінің ұсынысы – Лицензияланған материал.__ Лицензияланған материалды алған әрбір пайдаланушы осы Ашық Лицензияның шарттары мен талаптарына сәйкес Лицензияланған құқықтарды жүзеге асыру құқығына Лицензия берушіден автоматты түрде ұсыныс алады.
 
-       B. __No downstream restrictions.__ You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+       B. __Қосымша шектеулердің болмауы.__ Егер бұл Лицензияланған құқықтарды жүзеге асыруды шектейтін болса, сіз Лицензияланған материалға қандай да бір қосымша немесе өзгеше шарттар енгізе алмайсыз немесе оған Тиімді технологиялық шараларды қолдана алмайсыз.
 
-   6. __No endorsement.__ Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+   6. __Қолдау көрсетілмеуі.__ Осы Ашық Лицензияның ешбір бөлімі сізге Лицензия берушімен немесе 3(a)(1)(A)(i)-бөлімінде көрсетілген тұлғалармен ресми түрде байланысыңыз бар екенін немесе олардың сізді, не Лицензияланған материалды пайдалануыңызды мақұлдағанын көрсетуге құқық бермейді.
 
-b. ___Other rights.___
+b. ___Басқа құқықтар.___
 
-   1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+   1. Осы Ашық Лицензияға сәйкес моральдық құқықтар, мысалы, шығармашылық тұтастық құқығы, сондай-ақ жарнама, құпиялылық және басқа да жеке құқықтар лицензияланбайды. Дегенмен, мүмкіндігінше, Лицензия беруші сізге Лицензияланған құқықтарды жүзеге асыру үшін қажетті көлемде ғана осындай құқықтардан бас тартады және/немесе оларды пайдаланбауға келіседі.
 
-   2. Patent and trademark rights are not licensed under this Public License.
+   2. Патенттік және тауар белгілеріне құқықтар осы Ашық Лицензия аясында лицензияланбайды.
 
-   3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
+   3. Мүмкіндігінше, Лицензия беруші сіздің Лицензияланған құқықтарды жүзеге асыруыңыз үшін роялти жинау құқығынан бас тартады, мейлі ол тікелей немесе ерікті, заңнамалық немесе міндетті лицензиялау жүйесі арқылы жинақтаушы ұйым арқылы болсын. Барлық басқа жағдайларда, Лицензия беруші мұндай роялти жинау құқығын өзіне қалдырады.
 
-### Section 3 – License Conditions.
+### 3-бөлім – Лицензия шарттары.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Сіз Лицензияланған құқықтарды келесі шарттарға сәйкес қана жүзеге асыра аласыз.
 
-a. ___Attribution.___
+a. ___Атрибуция (авторлықты көрсету).___
 
-   1. If You Share the Licensed Material (including in modified form), You must:
+   1. Егер сіз Лицензияланған материалды (соның ішінде өзгертілген нұсқасын) Бөліссеңіз, келесілерді орындауыңыз қажет:
 
-       A. retain the following if it is supplied by the Licensor with the Licensed Material:
+       A. Егер Лицензияланған материалмен бірге төмендегілер берілсе, оларды сақтаңыз:
 
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. Лицензияланған материалдың авторын (авторларын) және авторлықты алуға белгіленген кез келген басқа тұлғаны, Лицензия берушінің ақылға қонымды талаптарына сәйкес кез келген тәсілмен көрсету (псевдонимді қолдану белгіленсе, соны көрсету);
 
-         ii. a copyright notice;
+         ii. Авторлық құқық туралы хабарламаны;
 
-         iii. a notice that refers to this Public License;
+         iii. Осы Ашық Лицензияға сілтеме жасайтын хабарламаны;
 
-         iv. a notice that refers to the disclaimer of warranties;
+         iv. Кепілдіктерден бас тарту туралы хабарламаны;
 
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         v. Мүмкіндігінше, Лицензияланған материалдың URI немесе гиперсілтемесін.
 
-       B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+       B. Егер сіз Лицензияланған материалды өзгерткен болсаңыз, осы өзгерістерді көрсетіңіз және бұрын жасалған кез келген өзгерістер туралы белгіні сақтаңыз.
 
-       C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+       C. Лицензияланған материалдың осы Ашық Лицензия аясында лицензияланғанын көрсетіңіз және осы Ашық Лицензияның мәтінін немесе оған сілтемені (URI немесе гиперсілтеме) қосыңыз.
 
-   2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+   2. Сіз 3(a)(1)-бөліміндегі шарттарды Лицензияланған материалды Бөлісудің қолданылатын әдісі, құралы және контекстіне байланысты кез келген ақылға қонымды тәсілмен орындай аласыз. Мысалы, бұл талаптарды қажетті ақпаратты қамтитын ресурсқа сілтеме беру арқылы орындау орынды болуы мүмкін.
 
-   3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+   3. Егер Лицензия беруші сұраса, сіз 3(a)(1)(A)-бөлімінде талап етілген кез келген ақпаратты мүмкіндігінше алып тастауыңыз керек.
 
-   4. If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
+   4. Егер сіз жасаған Бейімделген материалды Бөліссеңіз, сіз қолданатын Бейімдеуші лицензия осы Ашық Лицензияның талаптарын орындауға кедергі келтірмеуі керек.
 
-### Section 4 – Sui Generis Database Rights.
+### 4-бөлім – Sui Generis дерекқор құқықтары
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Егер Лицензияланған құқықтар сіздің Лицензияланған материалды пайдалануыңызға қолданылатын Sui Generis дерекқор құқықтарын қамтыса:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+a. Түсінбеушіліктерді болдырмау үшін, 2(a)(1)-бөлімі сізге дерекқор мазмұнын толық немесе елеулі бөлігін алуға, қайта пайдалануға, көшіруге және Бөлісуге құқық береді;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
+b. Егер сіз дерекқор мазмұнын толық немесе елеулі бөлігін өзіңізде Sui Generis дерекқор құқықтары бар дерекқорға енгізсеңіз, онда сіздің Sui Generis дерекқор құқықтарыңыз бар дерекқор (бірақ оның жеке мазмұны емес) Бейімделген материал болып табылады;
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. Егер сіз дерекқор мазмұнын толық немесе елеулі бөлігін Бөліссеңіз, 3(a)-бөліміндегі шарттарды орындауыңыз қажет.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Түсінбеушілікті болдырмау үшін, осы 4-бөлім Лицензияланған құқықтарға басқа Авторлық құқық және Ұқсас құқықтар кіретін жағдайда, осы Ашық Лицензия бойынша сіздің міндеттемелеріңізді алмастырмайды, тек толықтырады.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### 5-бөлім – Кепілдіктерден бас тарту және жауапкершілікті шектеу
 
-a. __Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.__
+a. __Егер Лицензия беруші бөлек міндеттемелерді өз мойнына алмаса, мүмкіндігінше, Лицензияланған материал «қалай бар, солай» және «қол жетімді күйінде» ұсынылады, және Лицензия беруші Лицензияланған материалға қатысты ешқандай тікелей, жанама, заңды немесе өзге де кепілдіктер бермейді. Бұл, атап айтқанда, меншік құқығы, сатуға жарамдылық, белгілі бір мақсатқа сәйкестік, үшінші тарап құқықтарын бұзбау, жасырын немесе басқа ақаулардың болмауы, дәлдігі немесе қателердің бар-жоғы туралы кепілдіктерді қамтиды, бірақ олармен шектелмейді. Егер кепілдіктерден толық немесе ішінара бас тартуға заң бойынша тыйым салынса, бұл бас тарту сізге қолданылмауы мүмкін.__
 
-b. __To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.__
+b. __Мүмкіндігінше, Лицензия беруші сізге ешқандай құқықтық негізде (соның ішінде, шектеусіз, немқұрайлылық негізінде) немесе басқа жағдайда, осы Ашық Лицензиядан немесе Лицензияланған материалды пайдаланудан туындайтын кез келген тікелей, арнайы, жанама, кездейсоқ, салдарлық, айыппұлдық, үлгілік немесе басқа да шығындарға, шығыстарға немесе залалдарға жауапты болмайды, тіпті егер Лицензия беруші осындай шығындардың, шығыстардың немесе залалдардың мүмкіндігі туралы хабардар етілген болса да. Егер жауапкершілікті шектеуге толық немесе ішінара тыйым салынса, бұл шектеу сізге қолданылмауы мүмкін.__
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. Жоғарыда көрсетілген кепілдіктерден бас тарту және жауапкершілікті шектеу, мүмкіндігінше, барлық жауапкершіліктен толықтай бас тарту және бас тарту мақсатын барынша жақындататын тәсілде түсіндірілуі тиіс.
 
-### Section 6 – Term and Termination.
+### 6-бөлім – Мерзім және тоқтату
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Бұл Ашық Лицензия лицензияланған Авторлық құқықтар мен Ұқсас құқықтардың мерзімі бойына қолданылады. Алайда, егер сіз осы Ашық Лицензияның талаптарын орындамасаңыз, онда сіздің осы Ашық Лицензия бойынша құқықтарыңыз автоматты түрде тоқтатылады.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Егер сіздің Лицензияланған материалды пайдалану құқығыңыз 6(a)-бөліміне сәйкес тоқтатылса, ол келесі жағдайларда қайта күшіне енеді:
 
-   1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+   1. бұзушылықты жойған күннен бастап автоматты түрде, егер ол сіз бұзушылықты анықтаған сәттен бастап 30 күн ішінде жойылса; немесе
 
-   2. upon express reinstatement by the Licensor.
+   2. Лицензия берушінің тікелей қайта күшіне енгізуі арқылы.
 
-   For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+   Түсінбеушілікті болдырмау үшін, осы 6(b)-бөлімі Лицензия берушінің сіздің осы Ашық Лицензияны бұзуыңызға байланысты құқықтық шаралар қолдану құқығына әсер етпейді.
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+c. Түсінбеушілікті болдырмау үшін, Лицензия беруші Лицензияланған материалды басқа шарттармен ұсынуы немесе оны кез келген уақытта таратуды тоқтатуы мүмкін; алайда, бұл әрекеттер осы Ашық Лицензияны тоқтатпайды.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. 1, 5, 6, 7 және 8-бөлімдері осы Ашық Лицензия тоқтатылғаннан кейін де күшінде қалады.
 
-### Section 7 – Other Terms and Conditions.
+### 7-бөлім – Басқа шарттар мен жағдайлар
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+a. Лицензия беруші сізбен келісілмеген қосымша немесе өзгеше шарттармен байланысты емес.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+b.  Бұл құжатта көрсетілмеген Лицензияланған материалға қатысты кез келген келісімдер, түсініктер немесе уағдаластықтар осы Ашық Лицензияның шарттарынан бөлек және тәуелсіз болып табылады.
 
-### Section 8 – Interpretation.
+### 8-бөлім – Түсіндіру
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+a. Түсінбеушілікті болдырмау үшін, бұл Ашық Лицензия сіздің Лицензияланған материалды осы Лицензиясыз заңды түрде пайдалану мүмкіндігіңізді қысқартпайды, шектемейді және оған қосымша талаптар қоймайды.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Мүмкіндігінше, егер осы Ашық Лицензияның қандай да бір тармағы орындалмайтын деп танылса, ол орындалатын болуы үшін ең аз көлемде қайта қарастырылады. Егер тармақ қайта қаралуға келмесе, онда ол осы Ашық Лицензиядан алынып тасталады, бірақ қалған шарттардың орындалуына әсер етпейді.
 
-c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+c. Осы Ашық Лицензияның ешбір шарты немесе талабы Лицензия берушінің тікелей келісімінсіз жойылмайды және бұзушылыққа жол берілмейді.
 
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+d. Осы Ашық Лицензияның ешбір бөлігі Лицензия берушіге немесе сізге қолданылатын қандай да бір жеңілдіктер мен иммунитеттерден бас тарту немесе шектеу ретінде қарастырылмайды және түсіндірілмейді, оның ішінде кез келген юрисдикция немесе органның құқықтық процестеріне қатысты.
 
-> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
->
-> Creative Commons may be contacted at creativecommons.org
+> Creative Commons өзінің ашық лицензияларының тарапы болып табылмайды. Дегенмен, Creative Commons өз жариялаған материалдарына осы ашық лицензиялардың бірін қолдануды таңдай алады және мұндай жағдайларда "Лицензия беруші" ретінде қарастырылады. Егер Creative Commons ашық лицензиясы бойынша материал бөлісілгенін көрсету немесе [creativecommons.org/policies](http://creativecommons.org/policies) сайтында жарияланған Creative Commons саясаты рұқсат еткен басқа жағдайлардан бөлек, Creative Commons алдын ала жазбаша келісімінсіз "Creative Commons" сауда белгісін немесе кез келген басқа Creative Commons сауда белгісі мен логотипін пайдалануға рұқсат бермейді. Бұл, соның ішінде, оның кез келген ашық лицензияларына рұқсатсыз өзгерістер енгізуге немесе лицензияланған материалды пайдалануға қатысты кез келген басқа келісімдерге байланысты жағдайларға да қатысты. Түсінбеушілікті болдырмау үшін, бұл абзац ашық лицензиялардың бөлігі болып табылмайды.
+
+> Creative Commons ұйымына creativecommons.org арқылы хабарласуға болады.
